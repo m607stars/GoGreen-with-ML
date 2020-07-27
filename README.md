@@ -31,3 +31,4 @@ Wind Speed and direction affect each other. So we need a multivariate time seire
 # Acknowledgements 
 * Dataset - https://www.kaggle.com/berkerisen/wind-turbine-scada-dataset
 * DeepAR Forecasting Tutorial - https://www.youtube.com/watch?v=g8UYGh0tlK0&list=WL&index=29&t=0s
+* Note: The problem statement is taken from IBM Hackathon 2020
